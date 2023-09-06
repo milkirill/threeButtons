@@ -16,6 +16,7 @@
 		149956802AA798FA0074BB3D /* ThreeButtonsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1499567F2AA798FA0074BB3D /* ThreeButtonsTests.swift */; };
 		1499568A2AA798FA0074BB3D /* ThreeButtonsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 149956892AA798FA0074BB3D /* ThreeButtonsUITests.swift */; };
 		1499568C2AA798FA0074BB3D /* ThreeButtonsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1499568B2AA798FA0074BB3D /* ThreeButtonsUITestsLaunchTests.swift */; };
+		1499569E2AA8F20D0074BB3D /* MyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1499569D2AA8F20D0074BB3D /* MyButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		149956852AA798FA0074BB3D /* ThreeButtonsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ThreeButtonsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		149956892AA798FA0074BB3D /* ThreeButtonsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeButtonsUITests.swift; sourceTree = "<group>"; };
 		1499568B2AA798FA0074BB3D /* ThreeButtonsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreeButtonsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		1499569D2AA8F20D0074BB3D /* MyButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				149956682AA798F90074BB3D /* AppDelegate.swift */,
 				1499566A2AA798F90074BB3D /* SceneDelegate.swift */,
 				1499566C2AA798F90074BB3D /* ViewController.swift */,
+				1499569D2AA8F20D0074BB3D /* MyButton.swift */,
 				1499566E2AA798F90074BB3D /* Main.storyboard */,
 				149956712AA798FA0074BB3D /* Assets.xcassets */,
 				149956732AA798FA0074BB3D /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				1499566D2AA798F90074BB3D /* ViewController.swift in Sources */,
 				149956692AA798F90074BB3D /* AppDelegate.swift in Sources */,
 				1499566B2AA798F90074BB3D /* SceneDelegate.swift in Sources */,
+				1499569E2AA8F20D0074BB3D /* MyButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
